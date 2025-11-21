@@ -113,9 +113,9 @@ https://www.kaggle.com/datasets/stealthtechnologies/rock-classification
 
 # 🏆 Результаты
 
-| Модель | Accuracy (test) | Улучшение vs baseline |
-|--------|------------------|------------------------|
-| **Fine-tuned ResNet18** | **94.2%** | +8.5% |
+| Модель                  | Accuracy (test) | Улучшение vs baseline |
+|-------------------------|-----------------|-----------------------|
+| **Fine-tuned ResNet18** | **94.2%**       |            +8.5%      |
 
 ### График обучения  
 ![](images/training_results.png)
