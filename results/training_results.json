@@ -1,0 +1,23 @@
+{
+  "basic_model_accuracy": 64.36781609195403,
+  "improved_model_accuracy": 67.24137931034483,
+  "improvement": 2.8735632183907995,
+  "num_classes": 9,
+  "class_names": [
+    "Basalt",
+    "Clay",
+    "Conglomerate",
+    "Diatomite",
+    "Shale-(Mudstone)",
+    "Siliceous-sinter",
+    "chert",
+    "gypsum",
+    "olivine-basalt"
+  ],
+  "dataset_stats": {
+    "train_images": 3687,
+    "test_images": 174,
+    "valid_images": 351,
+    "total_images": 4212
+  }
+}

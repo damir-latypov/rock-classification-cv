@@ -1,0 +1,28 @@
+{
+  "best_model_path": "models/best_rock_model.pth",
+  "input_size": 224,
+  "num_classes": 9,
+  "class_mapping": {
+    "Basalt": 0,
+    "Clay": 1,
+    "Conglomerate": 2,
+    "Diatomite": 3,
+    "Shale-(Mudstone)": 4,
+    "Siliceous-sinter": 5,
+    "chert": 6,
+    "gypsum": 7,
+    "olivine-basalt": 8
+  },
+  "transform_info": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  }
+}
